@@ -1,4 +1,4 @@
 # "My first git" 
 
 ---
-hello this is my first git repository. 
+Hello this is my first git repository. 
